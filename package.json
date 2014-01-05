@@ -1,31 +1,31 @@
 {
-  "name": "gulp-html2md",
+  "name": "gulp-prune-html",
   "version": "0.0.1",
-  "description": "Removes unneeded whitespaces, line-breaks, comments, etc from HTML",
+  "description": "Prune HTML based on CSS selectors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hemanth/gulp-html2md"
+    "url": "https://github.com/hemanth/gulp-prune-html"
   },
   "keywords": [
     "html",
-    "md",
+    "prune",
     "gulpplugin"
   ],
   "author": "Hemanth.HM",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/hemanth/gulp-html2md/issues"
+    "url": "https://github.com/hemanth/gulp-prune-html/issues"
   },
-  "homepage": "https://github.com/hemanth/gulp-html2md",
+  "homepage": "https://github.com/hemanth/gulp-prune-html",
   "dependencies": {
     "gulp-util": "~2.2.5",
     "event-stream": "~3.0.20",
     "html-md": "~3.0.2",
-    "map-stream": "0.0.4",
-    "prune-html": "~0.1.0"
+    "map-stream": "0.0.4"
   }
 }
+
