@@ -23,8 +23,7 @@
   "homepage": "https://github.com/hemanth/gulp-prune-html",
   "dependencies": {
     "gulp-util": "~2.2.5",
-    "event-stream": "~3.0.20",
-    "html-md": "~3.0.2",
+    "event-stream": "~3.0.20",   
     "map-stream": "0.0.4",
     "prune-html": "~0.1.0"
   }
