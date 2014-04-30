@@ -1,4 +1,7 @@
-# gulp-prune-html [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
+# gulp-prune-html 
+[![NPM version](https://badge.fury.io/js/gulp-prune-html.svg)](http://badge.fury.io/js/gulp-prune-html)
+[![Build Status](https://travis-ci.org/hemanth/gulp-prune-html.svg)](https://travis-ci.org/hemanth/gulp-prune-html)
+
 > Prune your HTML using [https://github.com/thlorenz/prune-html](prune-html)
 
 ## Usage
